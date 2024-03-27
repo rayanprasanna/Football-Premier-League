@@ -1,0 +1,190 @@
+17-3-2024
+West-Ham United
+Aston Villa
+1
+1
+16-3-2024
+Burnley
+Brentford
+2
+1
+16-3-2024
+Luton Town
+Nottingham Forest
+1
+1
+16-3-2024
+Fulham
+Tottenham Hotspur
+3
+0
+14-3-2024
+AFC Bournemouth
+Luton Town
+4
+3
+12-3-2024
+Chelsea
+Newcastle United
+3
+2
+10-3-2024
+Aston Villa
+Tottenham Hotspur
+0
+4
+10-3-2024
+Birghton-And-Hove Albion
+Nottingham Forest
+1
+0
+10-3-2024
+West-Ham United
+Burnley
+2
+2
+10-3-2024
+Liverpool
+Manchester City
+1
+1
+9-3-2024
+Manchester United
+Everton
+2
+0
+9-3-2024
+AFC Bournemouth
+Sheffield Uninted
+2
+2
+9-3-2024
+Crystal Palace
+Luton Town
+1
+1
+9-3-2024
+Wolverhampton Wanderers
+Fulham
+2
+1
+9-3-2024
+Arsenal
+Brentford
+2
+1
+5-3-2024
+Sheffield United
+Arsenal
+0
+6
+3-3-2024
+Burnley
+AFC Bournemouth
+0
+2
+3-3-2024
+Manchester City
+Manchester United
+3
+1
+2-3-2024
+Brentford
+Chelsea
+2
+2
+2-3-2024
+Luton Town
+Aston Villa
+2
+3
+2-3-2024
+Everton
+West-Ham United
+1
+3
+2-3-2024
+Fulham
+Birghton-And-Hove Albion
+3
+0
+2-3-2024
+Newcastle United
+Wolverhampton Wanderers
+3
+0
+2-3-2024
+Nottingham Forest
+Liverpool
+0
+1
+2-3-2024
+Tottenham Hotspur
+Crystal Palace
+3
+1
+27-2-2024
+West-Ham United
+Brentford
+4
+2
+25-2-2024
+Arsenal
+Newcastle United
+4
+1
+25-2-2024
+Wolverhampton Wanderers
+Sheffield United
+1
+0
+24-2-2024
+Aston Villa
+Nottingham Forest
+4
+2
+24-2-2024
+Birghton-And-Hove Albion
+Everton
+1
+1
+24-2-2024
+Crystal Palace
+Burnley
+3
+0
+24-2-2024
+Manchester United
+Fulham
+1
+2
+24-2-2024
+AFC Bournemouth
+Manchester City
+0
+1
+22-2-2024
+Liverpool
+Luton Town
+4
+1
+21-2-2024
+Manchester City
+Brentford
+1
+0
+20-2-2024
+Everton
+Crystal Palace
+1
+1
+18-2-2024
+Sheffield United
+Birghton-And-Hove Albion
+0
+5
+18-2-2024
+Luton Town
+Manchester United
+1
+2
